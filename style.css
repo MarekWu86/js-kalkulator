@@ -1,0 +1,9 @@
+#wyniki {
+    color: #fff;
+    margin-top: 20px; 
+    background-color: black; 
+    width: 150px; 
+    height: 70px; 
+    border: 2px solid blue;
+    text-align: center;
+}
